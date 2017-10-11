@@ -1,0 +1,13 @@
+site_name: mkdocs-test
+
+copyright: 'Reid Kostenuk'
+
+site_favicon: img/favicon.ico
+
+pages:
+  - Home: index.md
+  - About: 
+    - About: about.md
+    - Indent: indent.md
+
+theme: readthedocs
